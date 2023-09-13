@@ -2,7 +2,7 @@
 - 👀 I’m interested in IT/Wrestling
 - 🌱 I’m currently learning Java/Python
 - 💞️ I’m looking to collaborate on nothing currently
-- 📫 How to reach me 
+- 📫 How to reach me carsonrox@icloud.com
 
 <!---
 Chulsed/Chulsed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
